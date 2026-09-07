@@ -12,7 +12,7 @@ export type Project = {
 };
 
 export const projects: Project[] = [
-   {
+  {
     img: projSathya,
     tag: "E-Commerce",
     title: "Sathyabhaama",
@@ -22,10 +22,10 @@ export const projects: Project[] = [
   },
   {
     img: vrcelebrations,
-    tag: "Port-folio",
-    title: "Vr celebrations",
-    body: "Website for showcasing bussiness and booking packages.",
-    stack: ["Shopify", "Editorial UI", "Brand"],
+    tag: "Portfolio",
+    title: "VR Celebrations",
+    body: "Website for showcasing business services and booking packages.",
+    stack: ["React", "Editorial UI", "Branding"],
     url: "https://www.vrcelebrations.online/",
   },
   {
@@ -36,5 +36,4 @@ export const projects: Project[] = [
     stack: ["React", "Firebase", "Dashboard"],
     url: "https://shumanclientvault.netlify.app/",
   },
- 
 ];
