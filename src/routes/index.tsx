@@ -47,7 +47,7 @@ const testimonials = [
 ];
 
 const faqs = [
-  { q: "How long does a typical project take?", a: "Most marketing sites ship in 3–4 weeks. Complex web apps and AI platforms are scoped during consultation, typically 6–12 weeks." },
+  { q: "How long does a typical project take?", a: "Most marketing sites ship in 1–2 weeks. Complex web apps and AI platforms are scoped during consultation, typically 6–12 weeks." },
   { q: "Do you offer ongoing support?", a: "Yes. Every project includes 30 days of post-launch support and we offer monthly retainers for continuous improvement." },
   { q: "Can you work with my existing team?", a: "Absolutely. We integrate with in-house teams via Slack/Linear and follow your existing workflows." },
   { q: "Do you sign NDAs?", a: "Yes, mutual NDAs are standard. We can sign yours or send ours before any discovery call." },
